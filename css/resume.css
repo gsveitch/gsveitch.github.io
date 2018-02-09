@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #17a2b8;
+  color: #336ac4;
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #17a2b8;
+  color: #336ac4;
 }
 
 .icon-text {
@@ -136,17 +136,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #17a2b8 !important;
+  background-color: #336ac4 !important;
 }
 
 .text-primary {
-  color: #17a2b8 !important;
+  color: #336ac4 !important;
 }
 
 a {
-  color: #17a2b8;
+  color: #336ac4;
 }
 
 a:hover, a:focus, a:active {
-  color: #0f6674;
+  color: #336ac4;
 }
